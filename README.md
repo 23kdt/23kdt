@@ -4,10 +4,7 @@
 ### About me 📂
 
 - 👨🏾‍💻 I’m currently studying computer engineering at UCLM, Spain.
-- 🌱 I’m currently learning cybersecurity and trying to improve my english
-- 🏎️ I'm currently attending some web courses about ethical hacking. 
-- 🎵 I love classical music, EDM, and many types of music
-
+- 🌱 I’m currently learning cybersecurity, DevOps and trying to improve my english
 
 ### My social networks 🌐
 
