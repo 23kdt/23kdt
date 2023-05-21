@@ -38,9 +38,10 @@
 <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/git.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/ubuntu--v1.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/fluency/344/windows-11.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="drawing" width="50"/>
 	
 </span>
 
