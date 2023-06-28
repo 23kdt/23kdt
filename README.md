@@ -53,10 +53,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23kdt&layout=compact)](https://github.com/23kdt/)
 
 
-### Estadísticas de la cuenta académica 👨
-
-[![KDT's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoDoradoGalan)](https://github.com/DiegoDoradoGalan/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDoradoGalan&layout=compact)](https://github.com/DiegoDoradoGalan/)
-
