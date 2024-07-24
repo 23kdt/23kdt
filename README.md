@@ -3,8 +3,8 @@
 
 ### About me 📂
 
-- 👨🏾‍💻 I’m currently studying computer engineering at UCLM, Spain.
-- 🌱 I’m currently learning cybersecurity, DevOps and trying to improve my english
+- 👨🏾‍💻 I'm a graduate in computer engineering at UCLM, Spain.
+- 🌱 I’m currently working as Cloud-DevOps technician and trying to improve my english
 
 ### My social networks 🌐
 
@@ -34,14 +34,17 @@
 ### Tools 🛠️​
 
 <span>
-<img src="https://img.icons8.com/officexs/344/java-eclipse.png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="drawing" width="50"/> 
+<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/git.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/fluency/344/windows-11.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/kali-linux.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="drawing" width="50"/>
+
+
 	
 </span>
 
