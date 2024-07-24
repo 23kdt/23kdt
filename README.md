@@ -4,7 +4,7 @@
 ### About me 📂
 
 - 👨🏾‍💻 I'm a graduate in computer engineering at UCLM, Spain.
-- 🌱 I’m currently working as Cloud-DevOps technician and trying to improve my english
+- 🌱 I’m currently working as Cloud-DevOps technician at NTT Data. 
 
 ### My social networks 🌐
 
