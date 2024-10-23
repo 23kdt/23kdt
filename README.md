@@ -15,22 +15,6 @@
 </p>
 
 
-### Skills and languages ​💫​
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-
-
-<span>
-<img src="https://img.icons8.com/color/344/c-programming.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" alt="drawing" width="50"/>
-</span>
-
 ### Tools 🛠️​
 
 <span>
