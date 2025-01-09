@@ -27,6 +27,8 @@
 <img src="https://img.icons8.com/color/344/git.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="drawing" width="50"/>
 <img src="https://img.icons8.com/fluency/344/windows-11.png" alt="drawing" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Helm.svg" alt="drawing" width="50"/>
+
 
 
 	
