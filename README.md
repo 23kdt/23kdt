@@ -1,44 +1,41 @@
-## Bem-vindo 👋😁
+# Hey, I'm Diego 👋
 
+Data Engineer focused on building scalable data pipelines and lakehouse architectures.
 
-### About me 📂
+### What I do
 
-- 👨🏾‍💻 I'm a graduate in computer engineering at UCLM, Spain.
-- 🌱 I’m currently working as Cloud-DevOps technician at AstroKube :rocket:. 
+- 🏗️ Design and build data pipelines with **Apache Spark** and **Databricks**
+- 🗄️ Work with lakehouse patterns: Delta Lake, medallion architecture, streaming and batch
+- ☁️ Deploy and manage infrastructure across **AWS, Azure and GCP** with **Terraform** and **Kubernetes**
+- 🐍 Python as my main language for data engineering and automation
 
-### My social networks 🌐
-
-<p align="center">
-	<a href="https://github.com/23kdt/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/diego-dorado-gal%C3%A1n-4b9474240/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/diego_doradog23/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-
-### Tools 🛠️​
+### Tech stack 🛠️
 
 <span>
-<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="drawing" width="50"/> 
-<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/git.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/color/344/linux--v1.png" alt="drawing" width="50"/>
-<img src="https://img.icons8.com/fluency/344/windows-11.png" alt="drawing" width="50"/>
-<img src="https://icon.icepanel.io/Technology/svg/Helm.svg" alt="drawing" width="50"/>
-
-
-
-	
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="Docker" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="GCP" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=33340&format=png" alt="AWS" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png" alt="Azure" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" alt="Terraform" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="PostgreSQL" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="Apache Spark" width="50"/>
+<img src="https://img.icons8.com/color/344/git.png" alt="Git" width="50"/>
+<img src="https://img.icons8.com/color/344/linux--v1.png" alt="Linux" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Helm.svg" alt="Helm" width="50"/>
 </span>
 
-### Github stats 📊​
+### Find me 🌐
 
-[![KDT's GitHub stats](https://github-readme-stats.vercel.app/api?username=23kdt)](https://github.com/23kdt/)
+<p>
+  <a href="https://github.com/23kdt/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/diego-dorado-gal%C3%A1n-4b9474240/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/diego_doradog23/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
 
+### GitHub stats 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23kdt&layout=compact)](https://github.com/23kdt/)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=23kdt&show_icons=true&hide_border=true)](https://github.com/23kdt/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23kdt&layout=compact&hide_border=true)](https://github.com/23kdt/)
