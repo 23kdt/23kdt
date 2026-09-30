@@ -15,10 +15,10 @@ Data Engineer focused on building scalable data pipelines and lakehouse architec
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
 <img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="Docker" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="50"/>
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="50"/>
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="50"/>
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="50"/>
-<img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"/>
+<img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" alt="Terraform" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="PostgreSQL" width="50"/>
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="Apache Spark" width="50"/>
